@@ -170,3 +170,30 @@ Cooldown phase
 Average: 657
 95th percentile: 3050
 99th percentile: 5582
+http://35.244.231.138:8080/BSDS_Ass2/rest/dropDataBase
+33
+Warmup phase
+Loading phase
+Peak phase
+Cooldown phase
+Average: 18
+95th percentile: 42
+99th percentile: 73
+http://35.244.231.138:8080/BSDS_Ass2/rest/dropDataBase
+31
+Warmup phase
+Loading phase
+Peak phase
+Cooldown phase
+Average: 17
+95th percentile: 40
+99th percentile: 70
+http://35.244.231.138:8080/BSDS_Ass2/rest/dropDataBase
+30
+Warmup phase
+Loading phase
+Peak phase
+Cooldown phase
+Average: 17
+95th percentile: 40
+99th percentile: 71
